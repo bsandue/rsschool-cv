@@ -32,3 +32,12 @@
    }
 
 	```
+
+##  Education
+
+* Courses:
+	* The Odin Project: JavaScript (in progress)
+	* Code - basics: HTML, CSS
+
+## English	
+ * A1
