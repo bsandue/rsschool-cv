@@ -1,0 +1,22 @@
+.wrapper{
+	width: 1400px;
+	margin: 0 auto;
+	display: grid;
+}
+
+.header{
+	border: 1px solid rgb(197, 36, 36);
+
+}
+
+.main__section-right{
+	border: 1px solid rgb(36, 8, 8);
+}
+
+.main__section-left{
+	border: 1px solid rgb(86, 23, 204);
+}
+
+.footer{
+	border: 1px solid rgb(149, 206, 33);
+}
