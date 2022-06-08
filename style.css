@@ -16,7 +16,7 @@ li{
 }
 
 .header{
-	border: 1px solid rgb(197, 36, 36);
+	
 	text-align: center;
 	align-items: center;
 	background-color:rgb(233, 219, 211);
@@ -32,7 +32,7 @@ li{
 
 
 .main{
-	border: 1px solid rgb(36, 8, 8);
+	
 	display: flex;
 
 	
@@ -41,8 +41,5 @@ li{
 
 
 
-.footer{
-	border: 1px solid rgb(149, 206, 33);
-	
-}
+
 
