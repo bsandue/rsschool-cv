@@ -1,6 +1,9 @@
-**
-body{
+*{
 	box-sizing: border-box;
+}
+body{
+	
+	background-color: #fff;
 	font-family: Roboto, sans-serif;
 	
 }
@@ -16,50 +19,10 @@ body{
 }
 
 li{
-	display: none;
-}
-
-.wrapper{
-	max-width: 1400px;
-	display: flex;
-	flex-direction: column;
-	flex-wrap: wrap;
-	margin: 0 auto;
-}
-
-.header{
-	
-	text-align: center;
-	align-items: center;
-	background-color:rgb(233, 219, 211);
-}
-
-.header_img{
-	width: 15rem;
-	height: 17rem;
-	border-radius: 50%; 
-	overflow: hidden;
+list-style: none;
 	
 }
 
-
-.main{
-	
-	display: flex;
-	
+a{
+	text-decoration: none;
 }
-
-.header__section-name h1{
-	font-size: 40px;
-	font-weight: bold;
-	color: rgb(202, 161, 161);
-}
-
-
-.header__section-name h2{
-	font-size: 30px;
-	font-weight: bold;
-	color: rgb(202, 161, 161);
-}
-
-
